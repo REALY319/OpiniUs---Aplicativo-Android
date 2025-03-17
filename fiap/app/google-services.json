@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155769920526",
+    "project_id": "fiap-25b4f",
+    "storage_bucket": "fiap-25b4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155769920526:android:2174278336cf7ff6b6305f",
+        "android_client_info": {
+          "package_name": "com.example.fiap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCntzkHuuTrF8AymoVdk6WpbfvOsUxoAMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
